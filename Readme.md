@@ -21,6 +21,8 @@
 - Open folder in your codebase
 - Run the project in you browser
 
+![screenshot](assets/images/img-microverse.png)
+
 
 ## Author
 
